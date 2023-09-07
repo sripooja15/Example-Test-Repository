@@ -1,0 +1,39 @@
+Accounting Tasks
+-----------------
+Understand the available types of accounts in Netsuite and when do we use them. 
+https://suiteanswers.custhelp.com/app/answers/detail/a_id/37546/loc/en_US
+---------------------------------------------------------------------------------
+Creat few accounts with diffrent types
+https://tstdrv756622.app.netsuite.com/app/accounting/account/account.nl?id=714&whence=  (Account receivable)
+https://tstdrv756622.app.netsuite.com/app/accounting/account/account.nl?id=715&whence=   (Bank)
+https://tstdrv756622.app.netsuite.com/app/accounting/account/account.nl?id=716&scrollid=716&whence=  (Account payable)
+------------------------------------------------------------------------------------------------------------------------
+Define a new currency
+https://tstdrv756622.app.netsuite.com/app/common/multicurrency/currencylist.nl?whence=T&cmid=1673498336750_6
+-------------------------------------------------------------------------------------------------------------
+Modify Exchange Rates
+https://tstdrv756622.app.netsuite.com/app/common/multicurrency/currencyratelist.nl?asofdate=15-Oct-2022&sortcol=sToCurrency&sortdir=ASC&csv=HTML&OfficeXML=F&pdf=&size=10&_csrf=mcsu1_3fRVeCOCFPn14JQBx5ZMA0Q09qnIoHyf4L0lC0-sWYUdpli1H-4uEzopwDRgoPjCTWTa0vNDyfS_pA-VILa383_wz1o8ifKpLCa8RJZaZOGMwPKggY25fMvrqg0NHoC9S5uuygRBYR2B8tJG1U1rK5lONIT7mJA8bAW8U%3D&segment=
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Create a new unit of measure and define the ratio with other measures
+https://tstdrv756622.app.netsuite.com/app/common/units/unitstype.nl?id=50&whence=
+----------------------------------------------------------------------------------
+Creation of Budget
+https://tstdrv756622.app.netsuite.com/app/accounting/transactions/budgetlist.nl?whence=&cmid=1673531624182_84
+Budget Categories
+https://tstdrv756622.app.netsuite.com/app/common/otherlists/accountingotherlist.nl?id=26&tname=budgetcategory&whence=
+-----------------------------------------------------------------------------------------------------------------------
+Setup Financial Year, Quarters, Base Periods
+https://tstdrv756622.app.netsuite.com/app/setup/period/fiscalperiods.nl?whence= (financial year 2042)
+https://tstdrv756622.app.netsuite.com/app/setup/period/fiscalperiods.nl?whence= (Quarters)
+https://tstdrv756622.app.netsuite.com/app/setup/period/fiscalperiods.nl?whence= (Base periods)
+------------------------------------------------------------------------------------------------------
+How to close Accounting periods. 
+https://tstdrv756622.app.netsuite.com/app/setup/period/fiscalperiods.nl?whence=
+--------------------------------------------------------------------------------
+Understand the difference between Locking and Closing of Accounting periods
+https://tstdrv756622.app.netsuite.com/app/setup/period/fiscalperiods.nl?whence=
+---------------------------------------------------------------------------------
+Creation of Employee Expenses  Make Payments also
+https://tstdrv756622.app.netsuite.com/app/accounting/transactions/vendpymt.nl?id=194646&whence=&cmid=1674029311391_155
+
+
